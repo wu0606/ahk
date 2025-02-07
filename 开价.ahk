@@ -1,4 +1,4 @@
-﻿#Include C:\Users\Administrator\Desktop\hotKey\UIA.ahk ; 引入 UIA 库
+﻿#Include .\UIA.ahk ; 引入 UIA 库
 
 Numpad7::
 NumpadHome::
